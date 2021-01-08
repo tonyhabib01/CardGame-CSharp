@@ -1,0 +1,256 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.StartUp.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Selection.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9C.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9D.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9H.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9S.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AC.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AD.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AH.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AS.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JB.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JC.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JD.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JH.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JR.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JS.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KC.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KD.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KH.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KS.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QC.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QD.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QH.png
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QS.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Properties.Resources.resources
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Selection.resources
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.StartUp.resources
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9C.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9D.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9H.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9S.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AC.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AD.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AH.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AS.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\GB.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\GR.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JC.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JD.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JH.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JS.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KC.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KD.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KH.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KS.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QC.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QD.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QH.png
+C:\Users\USER\Desktop\NDU\Spring 2019\CSC 323\Project\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QS.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9C.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9D.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9H.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9S.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AC.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AD.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AH.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AS.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JB.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JC.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JD.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JH.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JR.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JS.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KC.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KD.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KH.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KS.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QC.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QD.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QH.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QS.png
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Properties.Resources.resources
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Selection.resources
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.StartUp.resources
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Desktop\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\10S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\2S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\3S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\4S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\5S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\6S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\7S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\8S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9C.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9D.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9H.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\9S.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AC.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AD.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AH.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\AS.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JC.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JD.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JH.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\JS.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KC.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KD.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KH.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\KS.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QC.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QD.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QH.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\QS.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Properties.Resources.resources
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.Selection.resources
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd_and_Even_Card_Game.StartUp.resources
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.exe
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.pdb
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\GB.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\bin\Debug\Cards\GR.png
+C:\Users\USER\Desktop\Testing\Odd and Even Card Game\Odd and Even Card Game\obj\Debug\Odd and Even Card Game.csprojAssemblyReference.cache
